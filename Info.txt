@@ -1,0 +1,8 @@
+This application is for managers of Outlaw Hess and any administating users. 
+
+To use this application you must first connect it with the bank database by pressing the "Connection" button above Pages.
+
+Once connected you are then able to access data through the pages page.
+
+Within this page you can get access to the accounts, overnight accured intrest of the accounts, Customers where you can view and create new customers,
+Create and view ISA accounts allowing to delete and transfer accounts from one ISA to another and also view Transactions coming in and out of the bank.
